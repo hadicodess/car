@@ -15,7 +15,7 @@ car2_width = 150;
 car2_height = 90;  
 car2_x = 10; 
 car2_y = 10; 
-car2_image = "car1.png"; 
+car2_image = "car2.png"; 
 
 
 function Add() 
